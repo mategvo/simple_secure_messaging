@@ -1,0 +1,62 @@
+<?php include('header.php'); ?>
+
+<h2>Author</h2>
+<p>I've created this platform, because I believe that people are generally good. I don't agree that mass survailance can ever be a good thing, at the end of the day, it's abuse of power most of all. We're living in the World of power inequality, unseen in nature, destroying the planet.</p>
+
+<p>Drop me a message, don't forget to add your public key if you wish to receive a reply.</p>
+<textarea rows="10">-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+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
+2atd
+=qDTM
+-----END PGP PUBLIC KEY BLOCK-----
+</textarea>
+
+
+<?php include('footer.php'); ?>
