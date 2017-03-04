@@ -9,9 +9,10 @@
 			</small>
 	</div>
 	<div class="fw">
-		<small>Free to copy, modify, redistribute and so anything posted on this website will be copied and redistributed. You're entering a one way rabbit hole. Disclaimer: there's no warranty what so ever around the software, privacy, security, even the fact this website will not disappear without warning.
+		<small>Feel free to copy, modify, redistribute. Anything posted on this website will be copied and redistributed. You're entering a one way rabbit hole. Disclaimer: there's no warranty whatsoever around the software, privacy, security, even the fact this website will not disappear without warning.
 		</br></br>
-		Donate Bitcoins: 1JN1HHnhXS7YdHQWDjkR9PgVREcZ8wBR7c
+		Donate Bitcoins: 1JN1HHnhXS7YdHQWDjkR9PgVREcZ8wBR7c<br/>
+		Donations will be reinvested into the platform.
 		</small>
 	</div>
 </body>

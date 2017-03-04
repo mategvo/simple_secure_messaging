@@ -1,6 +1,6 @@
 <?php include('header.php'); ?>
 <h2>FAQ</h2>
-<p>If you have no idea what blockchain is, if you don't understand what is encryption click here for thorough <a href="explanation.php">explanation</a>.</p>
+<p>If you have no understanding of what blockchain or encryption is, click here for a thorough <a href="explanation.php">explanation</a>.</p>
 <h3>How to send an SSM</h3>
 <ul>
 	<li>Get yourself a PGP client (<a href="https://gpgtools.org/">osx download</a>)</li>
