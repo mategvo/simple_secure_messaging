@@ -5,7 +5,7 @@ include('mysql_connection.php');
 
 $key = $_POST["pgp_key"];
 
-$query = ("SELECT * FROM `ssm`.`ssm` WHERE pgp_key = '$key'");
+$query = ("SELECT * FROM `ssm` WHERE pgp_key = '$key'");
 $result = $link->query($query);
 
 

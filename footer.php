@@ -3,10 +3,16 @@
 		<a href="index.php">Home</a> | <a href="message.php">New</a> | <a href="inbox.php">Inbox</a> | <a href="faq.php">FAQ</a> | <a href="author.php">Message the author</a>
 	</div>
 	<div class="fw">
-			<small>For supporters: <a href="https://github.com/mateuszgwozdz/simple_secure_messaging">Download code</a></small>
+			<small>For supporters: 
+				<a href="https://github.com/mateuszgwozdz/simple_secure_messaging" target="_blank">Download code</a> 
+				<a href="dump.php">Download database</a>
+			</small>
 	</div>
 	<div class="fw">
-		<small>Free to copy, modify, redistribute and so anything posted on this website will be copied and redistributed. You're entering a one way rabbit hole. Disclaimer: there's no warranty what so ever around the software, privacy, security, even the fact this website will not disappear without warning.</small>
+		<small>Free to copy, modify, redistribute and so anything posted on this website will be copied and redistributed. You're entering a one way rabbit hole. Disclaimer: there's no warranty what so ever around the software, privacy, security, even the fact this website will not disappear without warning.
+		</br></br>
+		Donate Bitcoins: 1JN1HHnhXS7YdHQWDjkR9PgVREcZ8wBR7c
+		</small>
 	</div>
 </body>
 <style type="text/css">

@@ -2,8 +2,10 @@
 
 <h2>Welcome to Simple Secure Messenger</h2>
 
-<p>Why: Our privacy is being compromised. Hackers, governments, corporate espionage, there's many that want to know what we are talking about. There's two things at stake: the information as well as the exchange itself - SSM solves both issues.</p>
-<p>How: Messages sent via SSM are open, can be seen by anyone. The concept of SSM is similiar to blockchain - where every excahnge can be seen by everyone - which solves the second issue mentioned above. How do you maintain your privacy? With very strong encryption. What's more, anyone can send a message to any public key, making it very difficult, to prove that actually a specific person sent the message.</p>
-<p>What: The platform is extremely simple, can be run on any server, by anyone with minimum programming knowledge needed for setup. Making it extremally resiliant: inspired by blockchain, the entire code and database of all messages ever sent, can be downloaded at any time by anyone, for public or private use. Which means that if this website is ever compromised, taken down by government etc., it can be restored by anyone (hopefully a lot of us!) who has downloaded the code and database.</p>
+<p>Why: Our privacy is being compromised. Hackers, governments, corporate espionage, there are many entities that want to see our conversations. There are two components at stake when privacy of communication is interfered: 1.Contents of the information exchanged. 2.The fact the exchange has happened. SSM solves both issues.</p>
+<p>How: * Each and every message can be viewed by any user. Which increases privacy of (2) exchange of information
+* Contents of a message stays private, through PGP encryption. Only the person who has the private PGP key can decode the message.
+* Anyone can replicate the platform, with it's entire database of messages. This increases resiliance, compared to centralised services like email. The concept is inspired by the design of blockchain.</p>
+<p>What: The platform is extremely simple in it's design. It can be run on any PHP server with MySQL database. Anyone with minimum programming knowledge is able to set it up in minutes.</p>
 
 <?php include('footer.php'); ?>
